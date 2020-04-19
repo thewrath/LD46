@@ -1,0 +1,6 @@
+title = "Leaning plates"
+author = "Thomas Le Goff"
+shortname = "leaning_plates"
+version = "1.0.10"
+support_email = "thomaslegoffpro@gmail.com"
+copyright_message = "Copyright © 2020 Thomas Le Goff."
